@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tpavankalyan
 - 👀 I’m interested in AI and Deep Learning
-- 🌱 I’m currently learning to write a theisis
-- 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me tankalapavankalyan@gmail.com
 
 <!---
